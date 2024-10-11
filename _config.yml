@@ -134,7 +134,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: blog # blog_name will be displayed in your blog page
-blog_description: a space for me to share some occasional thoughts?
+blog_description: a space for me to share some occasional thoughts
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
